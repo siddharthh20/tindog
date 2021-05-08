@@ -1,2 +1,0 @@
-# tindog
-nothing new
